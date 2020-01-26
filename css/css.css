@@ -1,0 +1,39 @@
+.middle {
+    background-image: url("../media/middle.png");
+    background-repeat: repeat-y;
+    background-position: left;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+
+    
+
+
+}
+
+.top {
+    background-image: url("../media/top.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+
+}
+
+.bottom {
+    background-image: url("../media/bottom.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+
+
+}
+
+p {
+    margin-left: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+    
+}
+
